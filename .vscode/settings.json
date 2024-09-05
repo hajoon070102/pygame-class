@@ -1,0 +1,43 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python",
+        "editor.inlayHints.enabled": "onUnlessPressed"
+    },
+    "black-formatter.importStrategy": "fromEnvironment",
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnSave": true,
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.inlayHints.fontSize": 0,
+    "editor.inlayHints.padding": false,
+    "editor.minimap.size": "fit",
+    "files.autoSave": "onFocusChange",
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.enablePytestSupport": false,
+    "python.analysis.exclude": [
+        "**/.venv",
+        "**/.git",
+        "**/__pycache__"
+    ],
+    "python.analysis.extraCommitChars": true,
+    "python.analysis.fixAll": [
+        "source.unusedImports"
+    ],
+    "python.analysis.inlayHints.callArgumentNames": "partial",
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.analysis.typeCheckingMode": "standard",
+    "python.createEnvironment.contentButton": "show",
+    "python.languageServer": "Pylance",
+    "python.missingPackage.severity": "Warning",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.scrollback": 10000,
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "GitHub Dark Default",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none",
+        "reportShadowedImports": "none"
+    }
+}

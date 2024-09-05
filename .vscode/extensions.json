@@ -1,0 +1,27 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "bierner.github-markdown-preview",
+        "codezombiech.gitignore",
+        "eamodio.gitlens",
+        "github.github-vscode-theme",
+        "hnw.vscode-auto-open-markdown-preview",
+        "kevinrose.vsc-python-indent",
+        "mhutchie.git-graph",
+        "mikestead.dotenv",
+        "ms-python.black-formatter",
+        "ms-python.isort",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "naumovs.color-highlight",
+        "nilssoderman.batch-runner",
+        "njpwerner.autodocstring",
+        "njqdev.vscode-python-typehint",
+        "sourcery.sourcery",
+        "tamasfe.even-better-toml",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "visualstudioexptteam.vscodeintellicode",
+        "yzhang.markdown-all-in-one",
+        "ms-ceintl.vscode-language-pack-ko"
+    ]
+}
