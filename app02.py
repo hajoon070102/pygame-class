@@ -3,7 +3,7 @@ import pygame
 
 pygame.init()
 
-pygame.display.set_caption("섹스")
+pygame.display.set_caption(f"Pink")
 
 screen_size = (288, 512)
 screen = pygame.display.set_mode(screen_size)
